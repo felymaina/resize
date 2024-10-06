@@ -1,2 +1,4 @@
 /venv_name
 example.db
+*.jpg
+*.png
